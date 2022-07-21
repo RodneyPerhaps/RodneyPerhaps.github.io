@@ -58,7 +58,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Thirty-Sixth AAAI Conference on Artificial Intelligence
+        title: Towards High-Fidelity Face Self-occlusion Recovery Via Multi-view Residual-based GAN Inversion, Chen Jinsong, Han Hu, and Shan Shiguang
         link: https://ojs.aaai.org/index.php/AAAI/article/view/19905
         # link_text: Project Website
         additional_links:
@@ -69,14 +69,13 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Towards High-Fidelity Face Self-occlusion Recovery Via Multi-view Residual-based GAN Inversion, Chen Jinsong, Han Hu, and Shan Shiguang
+          Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
         description: | # this will include new lines to allow paragraphs
-          - I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-          - Approached the problem of natural face self-occlusion recovery using a new generative adversarial network |
-          - Designed a multi-view Residual-based GAN Inversion to re-render and refine multi-view 2D images |
-          - Designed a differentiable screened Poisson blending equation solving method |
-          - Performed unsupervised training using unpaired data |
-          - Got accepted by AAAI 2022 (with 4 accepts among 6 review comments) |
+          - Approached the problem of natural <mark>face self-occlusion</mark> recovery using a new generative adversarial network.
+          - Designed a multi-view Residual-based GAN Inversion to re-render and refine multi-view 2D images.
+          - Designed a <mark>differentiable screened Poisson blending</mark> equation solving method.
+          - Performed <mask>unsupervised training</mask> using <mask>unpaired data</mask>.
+          - Got <mask>accepted</mask> by AAAI 2022 (with 4 accepts among 6 review comments).
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
