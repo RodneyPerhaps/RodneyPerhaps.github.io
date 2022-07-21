@@ -1,15 +1,15 @@
 # Site
-repository: sproogen/resume-theme
+repository: RodneyPerhaps/RodneyPerhaps.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Jinsong Chen
+title: Master Student 
+email: jinsongchen4@gmail.com
+website: https://rodneyperhaps.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: true 
@@ -28,10 +28,10 @@ linkedin_username: jinsongchen-iloveai
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -58,20 +58,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Thirty-Sixth AAAI Conference on Artificial Intelligence
+        link: https://ojs.aaai.org/index.php/AAAI/article/view/19905
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  RodneyPerhaps/MvInvert
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/RodneyPerhaps/MvInvert
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Towards High-Fidelity Face Self-occlusion Recovery Via Multi-view Residual-based GAN Inversion, Chen Jinsong, Han Hu, and Shan Shiguang
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - Approached the problem of natural face self-occlusion recovery using a new generative adversarial network |
+          - Designed a multi-view Residual-based GAN Inversion to re-render and refine multi-view 2D images |
+          - Designed a differentiable screened Poisson blending equation solving method |
+          - Performed unsupervised training using unpaired data |
+          - Got accepted by AAAI 2022 (with 4 accepts among 6 review comments) |
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
