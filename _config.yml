@@ -60,7 +60,7 @@ content:
       - layout: top-middle
         title: Towards High-Fidelity Face Self-occlusion Recovery Via Multi-view Residual-based GAN Inversion, Chen Jinsong, Han Hu, and Shan Shiguang
         link: https://ojs.aaai.org/index.php/AAAI/article/view/19905
-        # link_text: Project Website
+        # link_text: Project Websit
         additional_links:
           - title:  RodneyPerhaps/MvInvert
             icon: fab fa-github
@@ -81,13 +81,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Apple R\&D (Beijing) Limited Haidian Branch
+        title: Apple R&D (Beijing) Limited Haidian Branch
         link: apple.com
         # link_text: boringcompany.com
         sub_title: Video Engineer Intern
         caption: May 2022 - Present
         quote: >
-          Improve <mark>temporal consistency</mask> of different DL algorithms on videos
+          Improve temporal consistency of different DL algorithms on videos
         description: | # this will include new lines to allow paragraphs
             - Assist teams to improve the temporal consistency of <mark>facial landmark</mark> detection on videos.
             - Investigate on how to improve temporal consistency of <mark>face relighting</mark> on videos.
@@ -108,28 +108,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Chinese Academy of Sciences (UCAS) ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+        title: University of Chinese Academy of Sciences (UCAS)
       
         caption: 2020 - Present
         sub_title: M.S Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          - GPA: 3.45 / 4.0
 
       - layout: left
-        title: Northwestern Polytechnical University ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+        title: Northwestern Polytechnical University
       
         caption: 2016 - 2020
         sub_title: BSc Information Security
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          - GPA: 74 / 100
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
