@@ -76,6 +76,7 @@ content:
           - Designed a differentiable screened Poisson blending equation solving method.
           - Performed unsupervised training using unpaired data.
           - Got accepted by AAAI 2022 (with 4 accepts among 6 review comments).
+          ![alt text](images/network_arch.png "Network Architecture")
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
