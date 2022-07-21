@@ -71,11 +71,11 @@ content:
         quote: >
           Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
         description: | # this will include new lines to allow paragraphs
-          - Approached the problem of natural <mark>face self-occlusion</mark> recovery using a new generative adversarial network.
+          - Approached the problem of natural face self-occlusion recovery using a new generative adversarial network.
           - Designed a multi-view Residual-based GAN Inversion to re-render and refine multi-view 2D images.
-          - Designed a <mark>differentiable screened Poisson blending</mark> equation solving method.
-          - Performed <mark>unsupervised training</mark> using <mark>unpaired data</mark>.
-          - Got <mark>accepted</mark> by AAAI 2022 (with 4 accepts among 6 review comments).
+          - Designed a differentiable screened Poisson blending equation solving method.
+          - Performed unsupervised training using unpaired data.
+          - Got accepted by AAAI 2022 (with 4 accepts among 6 review comments).
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,8 +89,8 @@ content:
         quote: >
           Improve temporal consistency of different DL algorithms on videos
         description: | # this will include new lines to allow paragraphs
-            - Assist teams to improve the temporal consistency of <mark>facial landmark</mark> detection on videos.
-            - Investigate on how to improve temporal consistency of <mark>face relighting</mark> on videos.
+            - Assist teams to improve the temporal consistency of facial landmark detection on videos.
+            - Investigate on how to improve temporal consistency of face relighting on videos.
 
       - layout: left
         title: Beijing Kuaishou Technology Co. Ltd.
@@ -116,7 +116,7 @@ content:
           - GPA: 3.45 / 4.0
 
       - layout: left
-        title: Northwestern Polytechnical University
+        title: Northwestern Polytechnical University (NWPU)
       
         caption: 2016 - 2020
         sub_title: BSc Information Security
