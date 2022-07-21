@@ -58,7 +58,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Towards High-Fidelity Face Self-occlusion Recovery Via Multi-view Residual-based GAN Inversion, Chen Jinsong, Han Hu, and Shan Shiguang ![alt text](images/network_arch.png "Network Architecture")
+        title: Towards High-Fidelity Face Self-occlusion Recovery Via Multi-view Residual-based GAN Inversion, Chen Jinsong, Han Hu, and Shan Shiguang 
         link: https://ojs.aaai.org/index.php/AAAI/article/view/19905
         # link_text: Project Websit
         additional_links:
